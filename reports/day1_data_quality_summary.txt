@@ -1,0 +1,14 @@
+DAY 1 DATA QUALITY & INGESTION SUMMARY
+========================================
+aumbyfundhouse03.csv: 90 rows, 5 cols, 0 nulls, 0 duplicates
+benchmark_indices10.csv: 8050 rows, 3 cols, 0 nulls, 0 duplicates
+category_inflows05.csv: 144 rows, 3 cols, 0 nulls, 0 duplicates
+fund_master01.csv: 40 rows, 15 cols, 0 nulls, 0 duplicates
+industry_folio_count06.csv: 21 rows, 6 cols, 0 nulls, 0 duplicates
+investor_transactions08.csv: 32778 rows, 13 cols, 0 nulls, 0 duplicates
+monthly_sip_inflows04.csv: 48 rows, 6 cols, 12 nulls, 0 duplicates
+nav_hist02.csv: 46000 rows, 3 cols, 0 nulls, 0 duplicates
+portfolio_holdings09.csv: 322 rows, 8 cols, 0 nulls, 0 duplicates
+scheme_performance07.csv: 40 rows, 19 cols, 0 nulls, 0 duplicates
+
+AMFI Validation: 0 fund_master codes missing in nav_history.
